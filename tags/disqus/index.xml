@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disqus on Business Analytics</title>
+    <link>/tags/disqus/</link>
+    <description>Recent content in Disqus on Business Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 10 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/disqus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to install Disqus on Hugo?</title>
+      <link>/post/how-to-install-disqus-on-hugo/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-to-install-disqus-on-hugo/</guid>
+      <description>Steps to intgrate Disqus into your Hugo website  Sign up: First of all you have to sign up for Disqus.  Create an account on Disqus.  
+ Install Disqus: You are offered two choices after the registration process. Select &amp;lsquo;I want to install Disqus on my site&amp;rsquo;. Choose &amp;lsquo;Install Disqus&amp;rsquo;  
+ Fill in the form: Disqus needs some information for adding a forum to your website.</description>
+    </item>
+    
+  </channel>
+</rss>

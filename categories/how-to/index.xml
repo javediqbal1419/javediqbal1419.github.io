@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How-to on Business Analytics</title>
+    <link>/categories/how-to/</link>
+    <description>Recent content in How-to on Business Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 10 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/how-to/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to install Disqus on Hugo?</title>
+      <link>/post/how-to-install-disqus-on-hugo/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-to-install-disqus-on-hugo/</guid>
+      <description>Steps to intgrate Disqus into your Hugo website  Sign up: First of all you have to sign up for Disqus.  Create an account on Disqus.  
+ Install Disqus: You are offered two choices after the registration process. Select &amp;lsquo;I want to install Disqus on my site&amp;rsquo;. Choose &amp;lsquo;Install Disqus&amp;rsquo;  
+ Fill in the form: Disqus needs some information for adding a forum to your website.</description>
+    </item>
+    
+    <item>
+      <title>Blogdown tutorial (Part 4)</title>
+      <link>/post/blogdown-tutorial-part-4/</link>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/blogdown-tutorial-part-4/</guid>
+      <description>Bring your website online: From blogdown via GitHub to Netlify We start this last part of the tutorial where we with picture 10 of part 3.
+ Ignore public folder: One benefit of using Netlify is that that there is no need to upload your large public folder to get your website. Netlify will compile the source files and build by its own the Hugo site. You should take advantage of this feature by telling RStudio that the public-folder does not need version control, committed and uploaded.</description>
+    </item>
+    
+    <item>
+      <title>Blogdown tutorial (Part 3)</title>
+      <link>/post/blogdown-tutorial-part-3/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/blogdown-tutorial-part-3/</guid>
+      <description>In this third part of the blogdown tutorial I will explain the necessary steps to get a live preview of your website. The main advantage to bring up your website locally is that you can view and test your website during working on your post without the need of an internet connection. You have not even to reload the page as this is done automatically through a technology called LiveReload.</description>
+    </item>
+    
+    <item>
+      <title>Blogdown tutorial (Part 2)</title>
+      <link>/post/blogdown-tutorial-part-2/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/blogdown-tutorial-part-2/</guid>
+      <description>Creating a Github repository In part 1 of this tutorial we have installed the hugo-academic theme on top of R, RStudio and blogdown. We will continue the installation process with creating a remote GitHub repository.
+ In case you do not have a GitHub account, sign up for it. When you have finished the registration process click the button &amp;ldquo;Start a project&amp;rdquo;. If you already have an account click at &amp;ldquo;New repository&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Blogdown tutorial (Part 1)</title>
+      <link>/post/blogdown-tutorial-part-1/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/blogdown-tutorial-part-1/</guid>
+      <description>From R and RStudio with blogdown to Git and Github In this tutorial I will show how to install the R package &amp;ldquo;blogdown&amp;rdquo; with the help of the new version of RStudio and how to link your local blogdown-directory to a remote repository on GitHub. But before we actually start with the installation procedure let us define the different ingredients (tools) we are going to use:
+Tools we are going to use  Blogdown is an R package for creating static websites with R Markdown.</description>
+    </item>
+    
+  </channel>
+</rss>

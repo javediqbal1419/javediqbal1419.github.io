@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 2.4.0">
+  <meta name="generator" content="Hugo 0.48" />
+  <meta name="author" content="Javed Iqbal">
+
+  
+  
+  
+  
+    
+  
+  <meta name="description" content="Part 1 of this tutorial explains how to install the hugo-academic theme on top of R, RStudio and blogdown.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/post/blogdown-tutorial-part-1/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#328cc1">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700%7cMerriweather%7cRoboto&#43;Mono">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Business Analytics">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Business Analytics">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/post/blogdown-tutorial-part-1/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Business Analytics">
+  <meta property="og:url" content="/post/blogdown-tutorial-part-1/">
+  <meta property="og:title" content="Blogdown tutorial (Part 1) | Business Analytics">
+  <meta property="og:description" content="Part 1 of this tutorial explains how to install the hugo-academic theme on top of R, RStudio and blogdown.">
+  
+  
+    
+  <meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2017-09-04T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2017-09-04T00:00:00&#43;00:00">
+  
+
+  
+
+  
+
+  <title>Blogdown tutorial (Part 1) | Business Analytics</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Business Analytics</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#posts">
+            
+            <span>Posts</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#projects">
+            
+            <span>Projects</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+  <div class="article-container">
+    <h1 itemprop="name">Blogdown tutorial (Part 1)</h1>
+
+    
+
+<div class="article-metadata">
+
+  
+  
+  
+  <div>
+    
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">Peter Baumgartner</span>
+    </span>
+    
+  </div>
+  
+
+  <span class="article-date">
+    
+    <meta content="2017-09-04 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+    <time datetime="2017-09-04 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+      Sep 4, 2017
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Javed Iqbal">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    5 
+  </span>
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <a href="/post/blogdown-tutorial-part-1/#disqus_thread"></a>
+  
+
+  
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder"></i>
+    
+    <a href="/categories/tutorial/">tutorial</a>, 
+    
+    <a href="/categories/blog-engines/">blog engines</a>, 
+    
+    <a href="/categories/static-sites/">static sites</a>, 
+    
+    <a href="/categories/how-to/">how-to</a>
+    
+  </span>
+  
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=https://javediqbal1419.github.io/Blogdown%20tutorial%20%28Part%201%29&amp;url=%2fpost%2fblogdown-tutorial-part-1%2f"
+         target="_blank" rel="https://javediqbal1419.github.io/">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https://javediqbal1419.github.io/%2fpost%2fblogdown-tutorial-part-1%2f"
+         target="_blank" rel="https://javediqbal1419.github.io/">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://javediqbal1419.github.io/%2fpost%2fblogdown-tutorial-part-1%2f&amp;title=Blogdown%20tutorial%20%28Part%201%29"
+         target="_blank" rel="https://javediqbal1419.github.io/">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      
+      <a class="email"
+         href="mailto:?subject=Blogdown%20tutorial%20%28Part%201%29&amp;body=javedhasan676@gmail.com%2fpost%2fblogdown-tutorial-part-1%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<h4 id="from-r-and-rstudio-with-blogdown-to-git-and-github">From R and RStudio with blogdown to Git and Github</h4>
+
+<p>In this tutorial I will show how to install the R package &ldquo;blogdown&rdquo; with the help of the new version of RStudio and how to link your local blogdown-directory to a remote repository on GitHub. But before we actually start with the installation procedure let us define the different ingredients (tools) we are going to use:</p>
+
+<h2 id="tools-we-are-going-to-use">Tools we are going to use</h2>
+
+<ol>
+<li><a href="https://bookdown.org/yihui/blogdown/" target="_blank">Blogdown</a> is an R package for creating static websites with R Markdown.</li>
+<li><a href="https://www.r-project.org/about.html" target="_blank">R</a> is an integrated suite of open source software facilities for statistical computing and includes tools for data manipulation, calculation and graphical display.</li>
+<li><a href="https://www.rstudio.com/" target="_blank">RStudio</a> is an integrated development environment (IDE) which sits on top of R and facilitates the use of R tremendously.</li>
+<li><a href="http://rmarkdown.rstudio.com/" target="_blank">R Markdown</a> is a file format for making dynamic documents with R. It is based on Markdown (a lightweight markup language with plain text formatting syntax), but it also can contain chunks of embedded R code.</li>
+<li><a href="https://gohugo.io/" target="_blank">Hugo</a> is a popular open-source static website generator.</li>
+<li><a href="https://themes.gohugo.io/academic/" target="_blank">hugo-academic</a> is a theme designed for Hugo to create an academic or personal website. Besides special academic features like sections for publications, projects, teaching it also includes a blog section and supports multilingual usage.</li>
+<li><a href="https://github.com/" target="_blank">GitHub</a> is an Internet hosting service for distributed version control repositories. Is is mainly used for source code management, but it works also with plain text markup languages. GitHub offers all the functionality of Git as well adding its own features.</li>
+<li><a href="https://git-scm.com/" target="_blank">Git</a> is a distributed version control system  for tracking changes in computer files and coordinating work on those files among multiple people.</li>
+</ol>
+
+<p>All these tools are open source and free available.</p>
+
+<h2 id="preliminary-preparations-installing-r-and-rstudio">Preliminary preparations: Installing R and RStudio</h2>
+
+<p>There are many tutorials to install R and RStudio. See for instance the video <a href="https://www.youtube.com/watch?v=cX532N_XLIs" target="_blank">Installing R and RStudio</a>. But at the moment the new version of RStudio which facilitates the installation procedure of blogdown is still not released as standard version. But you can use all these new features by <a href="https://www.rstudio.com/products/rstudio/download/preview/" target="_blank">downloading the preview release</a>. As these features will be soon the standard version of RStudio I will explain the installation procedure using this upcoming version.<sup class="footnote-ref" id="fnref:1"><a href="#fn:1">1</a></sup></p>
+
+<h2 id="create-a-blogdown-website">Create a blogdown website</h2>
+
+<ol>
+<li><p>After installing RStudio version greater than v.1.1.28 open the project menu and choose &ldquo;New Project&rdquo;. <figure>
+
+<img src="/img/blogdown-tutorial/create-new-project.png" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" class="numbered">
+  <h4>Create a new project</h4>
+  
+</figcaption>
+
+</figure></p></li>
+
+<li><p>A new window opens up: We are going to create a new local directory for our static blogdown website. Choose &ldquo;New directory&rdquo;. <figure>
+
+<img src="/img/blogdown-tutorial/create-new-directory.png" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" class="numbered">
+  <h4>Create a new directory</h4>
+  
+</figcaption>
+
+</figure></p></li>
+
+<li><p>The selection in the following window is self-explaining: &ldquo;Website using blogdown&rdquo;. Here it is the last line in the window. But in the future there may added other project types, so that you have to scroll down to see the blogdown-choice.<figure>
+
+<img src="/img/blogdown-tutorial/create-website-using-blogdown.png" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" class="numbered">
+  <h4>Create a website using blogdown.</h4>
+  
+</figcaption>
+
+</figure></p></li>
+
+<li><p>Lastly we arrive at the final window we have to answer. Here you can choose the name and location of your local directory which will eventually collect all files of your static website. I recommend to leave all check boxes ticked, as this default value will give you the most support to generate the new website. The program for the static website generator Hugo will be installed automatically as well as sample blog posts will be added. Especially important is the possibility to look into the example site of the theme, because this will provide you with clues about the functionality of the theme. <figure>
+
+<img src="/img/blogdown-tutorial/create-website-using-hugo-and-blogdown.png" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" class="numbered">
+  <h4>Create a website using Hugo and blogdown.</h4>
+  
+</figcaption>
+
+</figure></p></li>
+
+<li><p>I have chosen the hugo-academic theme. You can pick your own preferred webdesign via the <a href="https://themes.gohugo.io/" target="_blank">Hugo Themes</a> page. <figure>
+
+<img src="/img/blogdown-tutorial/hugo-themes.png" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" class="numbered">
+  <h4>Huge variety of Hugo themes to choose from.</h4>
+  
+</figcaption>
+
+</figure></p></li>
+
+<li><p>In the &ldquo;Hugo theme&rdquo; field you have to insert the URL of the GitHub repository of the theme you would like to use. You will see the address when you click at the thumbnail of the theme and hover your cursor over the &ldquo;Download&rdquo;-button. <figure>
+
+<img src="/img/blogdown-tutorial/academic-theme.png" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" class="numbered">
+  <h4>hugo-academic is as special theme for personal websites in academia.</h4>
+  
+</figcaption>
+
+</figure></p></li>
+
+<li><p>Clicking on the download button will bring up the developer&rsquo;s repository. This is useful even for beginner as you can have a look of the ongoing discussion under the &ldquo;issue&rdquo; tab or to ask your own questions. Experienced users can fork the repository in order to adapt the functionality of the theme and/or to suggest code changes to the developer via the push mechanism. <figure>
+
+<img src="/img/blogdown-tutorial/github-gcushen-hugo-academic.png" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" class="numbered">
+  <h4>GitHub code repository of the hugo-academia theme.</h4>
+  
+</figcaption>
+
+</figure></p></li>
+
+<li><p><a name="figure8"></a>When you finally click the &ldquo;Create Project&rdquo; button you have to wait few seconds until the selected theme is downloaded and Hugo installed. After the installation is finished RStudio opens up a four pane view. We will go more into the details of these different windows in the third part of this tutorial.  <figure>
+
+<img src="/img/blogdown-tutorial/four-pane-view-after-installation.png" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" class="numbered">
+  <h4>RStudio&rsquo;s four pane view immediately after installation.</h4>
+  
+</figcaption>
+
+</figure></p></li>
+</ol>
+
+<h2 id="summary">Summary</h2>
+
+<p>We have successfully installed the hugo-academic theme in a version controlled local directory. Essentially we could now start to personalize the website and/or write articles resp. posts. But we will continue the installation process with creating a remote GitHub repository which has to be linked to the just created local repository. The remote repository not only operates as backup and as distributed version control (allowing collaboration) but also enables &ndash; beside a manual transfer via ftp &ndash; additional ways of publishing your website. We will cover these possibilities in the following parts of this tutorial.</p>
+<div class="footnotes">
+
+<hr />
+
+<ol>
+<li id="fn:1">To use features supporting blogdown websites the RStudio version has to be higher than v1.1.28: As today (2017-09-04) the actual preview version is v1.1.353. 
+ <a class="footnote-return" href="#fnref:1"><sup>^</sup></a></li>
+</ol>
+</div>
+
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/r/">r</a>
+  
+  <a class="badge badge-light" href="/tags/rstudio/">rstudio</a>
+  
+  <a class="badge badge-light" href="/tags/blogdown/">blogdown</a>
+  
+  <a class="badge badge-light" href="/tags/hugo/">hugo</a>
+  
+  <a class="badge badge-light" href="/tags/git/">git</a>
+  
+  <a class="badge badge-light" href="/tags/github/">github</a>
+  
+  <a class="badge badge-light" href="/tags/hugo-academic/">hugo-academic</a>
+  
+</div>
+
+
+
+
+    
+    
+
+    
+
+    
+<section id="comments">
+  <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "javediqbal1419" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+
+
+  </div>
+</article>
+
+<footer class="site-footer">
+  <div class="container">
+
+
+
+    <hr />
+    <p class="powered-by">
+
+      &copy; 2018 &middot; 
+
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title"></h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> 
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> 
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/bash.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/cs.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/http.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/javascript.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/json.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/markdown.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/xml.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/yaml.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+    <script id="dsq-count-scr" src="//javediqbal1419.disqus.com/count.js" async></script>
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "",
+        'results': "",
+        'no_results': ""
+      };
+      const content_type = {
+        'post': "",
+        'project': "",
+        'publication' : "",
+        'talk' : ""
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    <script src="/js/search.js"></script>
+    
+
+    
+    
+
+  </body>
+</html>
+

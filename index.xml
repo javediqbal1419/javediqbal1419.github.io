@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business Analytics on Business Analytics</title>
+    <link>/</link>
+    <description>Recent content in Business Analytics on Business Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0500</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>
+
+&lt;p&gt;There are several places on this website that requires you to identify yourself:&lt;/p&gt;
+
+&lt;h2 id=&#34;comments&#34;&gt;Comments&lt;/h2&gt;
+
+&lt;p&gt;At the moment I am using &lt;a href=&#34;https://disqus.com/&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt;, even I am &lt;a href=&#34;{{ &amp;lt; &amp;quot;2017-09-14-alternatives-for-disqus&amp;quot; &amp;gt; }}&#34; target=&#34;_blank&#34;&gt;not happy&lt;/a&gt; with this external service. I am planning to change to &lt;a href=&#34;https://staticman.net/&#34; target=&#34;_blank&#34;&gt;Staticman&lt;/a&gt;, so that I would have the control about the data. But at the moment &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues/427&#34; target=&#34;_blank&#34;&gt;I haven&amp;rsquo;t succeded to implement it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To control you data with Disqus you can:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.disqus.com/update-on-privacy-and-gdpr-compliance&#34; target=&#34;_blank&#34;&gt;read the general policy&lt;/a&gt; by Disqus concerning the GDPR Compliance&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.disqus.com/terms-and-policies/privacy-faq&#34; target=&#34;_blank&#34;&gt;read the privacy FAQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://disqus.com/data-sharing-settings/&#34; target=&#34;_blank&#34;&gt;opt out from information gathering&lt;/a&gt; by Disqus&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.disqus.com/commenting/gdpr-delete-or-access-user-data&#34; target=&#34;_blank&#34;&gt;delete or access your user data&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+
+&lt;p&gt;The contact form is a service by &lt;a href=&#34;https://formspree.io/&#34; target=&#34;_blank&#34;&gt;formspree&lt;/a&gt;. They only store contents of the last 100 form submissions and delete the rest. Formspree is &lt;a href=&#34;https://github.com/formspree/formspree&#34; target=&#34;_blank&#34;&gt;open source, so you can check&lt;/a&gt;, what they are doing. The emails themselves are sent using another &lt;a href=&#34;https://github.com/sendgrid&#34; target=&#34;_blank&#34;&gt;open source&lt;/a&gt; project: &lt;a href=&#34;https://sendgrid.com/&#34; target=&#34;_blank&#34;&gt;SendGrid&amp;rsquo;s API&lt;/a&gt;, so on that end their &lt;a href=&#34;https://sendgrid.com/policies/privacy/&#34; target=&#34;_blank&#34;&gt;privacy policies&lt;/a&gt; apply.&lt;/p&gt;
+
+&lt;p&gt;By filling out the form I get your name, email address and you text. I will do nothing except handling your mailed concern. I will delete all mail sent by formspree at the latest after 12 months.&lt;/p&gt;
+
+&lt;h2 id=&#34;google-analytics&#34;&gt;Google Analytics&lt;/h2&gt;
+
+&lt;p&gt;The only personal information collected while you visit this site is non-identifying information, such as browser type and operating system. This information is collected by &lt;a href=&#34;https://www.google.com/analytics/terms/us.html&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt; for measuring visitor traffic to this site.&lt;/p&gt;
+
+&lt;p&gt;For each visitor to reach the site, Google Analytics collects the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the site, page access times and referring website address. This information is presented to me as aggregated reports for the purpose of gauging visitor traffic and trends.&lt;/p&gt;
+
+&lt;p&gt;This information is collected via cookies. Most web browsers allow you to control handling of cookies. To the best of my knowledge, you can disable all cookies for this website without in any way reducing the functionality for you. &lt;a href=&#34;https://cookiesandyou.com/&#34; target=&#34;_blank&#34;&gt;Read here&lt;/a&gt; to learn what cookies are and how to control or disable them.&lt;/p&gt;
+
+&lt;p&gt;I have set the &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/#all-privacy-settings&#34; target=&#34;_blank&#34;&gt;GDPR options&lt;/a&gt; of the static site generator I am using (Hugo) so that your IP address is anonymized within Google Analytics and the “Do Not Track” request is respected.&lt;/p&gt;
+
+&lt;h2 id=&#34;social-sharing&#34;&gt;Social sharing&lt;/h2&gt;
+
+&lt;p&gt;If you are using the social sharing buttons on my website then the privacy policy of those websites apply:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/en/privacy&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/privacy/explanation&#34; target=&#34;_blank&#34;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.instagram.com/155833707900388&#34; target=&#34;_blank&#34;&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.whatsonweibo.com/privacy-policy/&#34; target=&#34;_blank&#34;&gt;Weibo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thank you</title>
+      <link>/thanks/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0500</pubDate>
+      
+      <guid>/thanks/</guid>
+      <description>&lt;p&gt;Thank you for your message. I will reply to you as fast as possible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to install Disqus on Hugo?</title>
+      <link>/post/how-to-install-disqus-on-hugo/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-to-install-disqus-on-hugo/</guid>
+      <description>
+
+&lt;h3 id=&#34;steps-to-intgrate-disqus-into-your-hugo-website&#34;&gt;Steps to intgrate Disqus into your Hugo website&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sign up&lt;/strong&gt;: First of all you have to sign up for &lt;a href=&#34;https://disqus.com/&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt;. &lt;figure&gt;
+
+&lt;img src=&#34;/img/disqus/sign-up.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Create an account on Disqus.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Install Disqus&lt;/strong&gt;: You are offered two choices after the registration process. Select &amp;lsquo;I want to install Disqus on my site&amp;rsquo;. &lt;figure class=&#34;small&#34;&gt;
+
+&lt;img src=&#34;/img/disqus/two-choices.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Choose &amp;lsquo;Install Disqus&amp;rsquo;&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Fill in the form&lt;/strong&gt;: Disqus needs some information for adding a forum to your website. I will add just two remarks as the form is mostly self-explaining. Firstly, the website name is a text snippet that will appear in the head of every forum section. It does not have to be related to you website name. Secondly, make a note of your Disqus short name as you are going to use it in step 5 and 6. &lt;figure&gt;
+
+&lt;img src=&#34;/img/disqus/fill-in-form.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Configure Disqus for your site&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Find discussion template&lt;/strong&gt;: With the next two steps we are going to fix the problem of a faulty Hugo template. Look for the file &amp;lsquo;single.html&amp;rsquo; and open it in the editor to inspect the content. &lt;code&gt;single.html&lt;/code&gt; should be under &lt;code&gt;/themes/&amp;lt;your-theme-nam&amp;gt;/layouts/_default&lt;/code&gt;.  At the end of the file &amp;ndash; just before the footer &amp;ndash;, you should find the name of the partial template for your discussion forum (= &amp;lsquo;comments-html&amp;rsquo; in my case). &lt;figure&gt;
+
+&lt;img src=&#34;/img/disqus/find-discussion-template.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Configure Disqus for your site.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Replace content&lt;/strong&gt;: Now go and edit this file, which should be found under &lt;code&gt;/themes/&amp;lt;your-theme-nam&amp;gt;/layouts/partials&lt;/code&gt;. You have to replace the whole content with the &lt;a href=&#34;https://github.com/rstudio/blogdown/issues/52#issuecomment-288407836&#34; target=&#34;_blank&#34;&gt;code snippet provided by Yihui Xie&lt;/a&gt; (Thanks a lot by the way!!). To help you, you can &lt;a href=&#34;https://github.com/petzi53/weblog/commit/b7993533e501e2f1668375e22fe05e1ceb7d87ae?diff=split&#34; target=&#34;_blank&#34;&gt;compare my changes at GitHub&lt;/a&gt;. But don&amp;rsquo;t forget to change the URL to your Disqus account [as I did 😊]! &lt;figure&gt;
+
+&lt;img src=&#34;/img/disqus/my-github-changes.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Replace content of your partial template as explained&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Add shortname&lt;/strong&gt;: To finish the installation you have finally to add the line &lt;code&gt;disqusShortname = &amp;quot;&amp;lt;your-disqus-shortname&amp;gt;&amp;quot;&lt;/code&gt; to your config.toml. &lt;figure&gt;
+
+&lt;img src=&#34;/img/disqus/add-disqus-shortname.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Add your Disqus short name into the config.toml&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Congratulation!&lt;/strong&gt; You have integrated Disqus into your static website. Go to one of your posts and check it. Your end of the page should look similar as in the following graphic. &lt;figure&gt;
+
+&lt;img src=&#34;/img/disqus/disqus-integrated.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Disqus forum successfully integrated&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;critical-remark-to-disqus&#34;&gt;Critical remark to Disqus&lt;/h2&gt;
+
+&lt;p&gt;I should mention that there is growing skepticism in the community about Disqus. People are not only criticizing slowness (load-time behavior) but above all they are concerned about data integrity. It seems that there are lots of &lt;a href=&#34;http://donw.io/post/github-comments/&#34; target=&#34;_blank&#34;&gt;irrelevant requests&lt;/a&gt; to track the data traffic for whatever purpose nobody knows. I have written a post &lt;a href=&#34;/post/2017-09-10-alternatives-for-disqus/&#34;&gt;summarizing my Disqus critiques&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blogdown tutorial (Part 4)</title>
+      <link>/post/blogdown-tutorial-part-4/</link>
+      <pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/blogdown-tutorial-part-4/</guid>
+      <description>
+
+&lt;h4 id=&#34;bring-your-website-online-from-blogdown-via-github-to-netlify&#34;&gt;Bring your website online: From blogdown via GitHub to Netlify&lt;/h4&gt;
+
+&lt;p&gt;We start this last part of the tutorial where we with picture 10 of part 3.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ignore public folder&lt;/strong&gt;: One benefit of using Netlify is that that there is no need to upload your large public folder to get your website. Netlify will compile the source files and build by its own the Hugo site. You should take advantage of this feature by telling RStudio that the &lt;code&gt;public&lt;/code&gt;-folder does not need version control, committed and uploaded. Select the public folder under the Git tab on the right upper pane and select from the configuration menu &lt;code&gt;ignore…&lt;/code&gt;. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/ignore-public-folder.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Ignore public folder&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Confirm git ignore&lt;/strong&gt;: This will bring up a window where you can specify which files are to be ignored. Confirm the inclusion of the public folder with clicking &amp;lsquo;Save&amp;rsquo;. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/git-ignore-public-folder.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Confirm the exclusion of the public folder.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt; This saved file (`.gitignore&amp;rsquo;) will be added as modified to the version control. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/gitignore-modified.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Clean up&lt;/strong&gt;: Before we are going to rebuild the complete site, I recommend to take some precaution. To rebuild from a clean slate I restart R (Under the RStudio menu &amp;lsquo;Session&amp;rsquo; or CMD-Shift-F10 on MacOS.) and clean up all unnecessary files (&amp;lsquo;Clean All’ in the &amp;lsquo;Build&amp;rsquo; tab under the &amp;lsquo;More&amp;rsquo; menu in the upper right pane.) &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/clean-all.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Rebuild website from a clean status.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Build website&lt;/strong&gt;: Now you can safely (re-)build the website by clicking into &amp;lsquo;Build Website&amp;rsquo;. You get a message of all the activities done, the time necessary for the build and were the output was created. [Personal comment: Frankly I do not know if the last two steps are really necessary when Netlify is running its own scripts.] &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/build-website.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Rebuild website from a clean status.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Commit changes&lt;/strong&gt;: The next step is to select all changed files under the Git tab and to choose &amp;ldquo;Commit&amp;rdquo;, write a commit message and to confirm these changes. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/commit-changes.png&#34; /&gt;
+
+
+&lt;/figure&gt; &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/reviewed-changes.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Bring all changes under version control and check if everything went smoothly.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Push changes&lt;/strong&gt;: Now you can transfer all your committed changes to GitHub. After clicking on the push button a window opens and you can see if the changed files are transferred successfully. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/push-changes.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Push the committed files to GitHub.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Inspect repo&lt;/strong&gt;: If you don&amp;rsquo;t trust this process, you can direct your browser to your GitHub repository and check if really the last commit &amp;ldquo;First post&amp;rdquo; has safely arrived. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/inspect-repo.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Inspect your repo on GitHub to confirm the procedure.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Get Netlify account:&lt;/strong&gt; The last task we are going to solve is the connection the GitHub repository to the Netlifly service. Go to &lt;a href=&#34;https://www.netlify.com/&#34; target=&#34;_blank&#34;&gt;https://www.netlify.com/&lt;/a&gt; and create a free new account (&amp;ldquo;Get started for free&amp;rdquo;). &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/create-account-on-netlify.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Inspect your repo on GitHub to confirm the procedure.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Let Netlify access your repo&lt;/strong&gt;: After the registration procedure you get page where you can choose &amp;lsquo;New Site from Git&amp;rsquo;.  &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/netlify-empty.png&#34; /&gt;
+
+
+&lt;/figure&gt; There are essential three step to create the new website: (A) Choose GitHub as your Git repository. This will bring up a window where you have to confirm that you will allow Netlify access to your GitHub account.  &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/netlify-authorization.png&#34; /&gt;
+
+
+&lt;/figure&gt; (B) Then you have to specify to which repository Netlify should connect. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/netlify-choose-repo.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Authorize Netlify to access your website repository.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Deploy settings&lt;/strong&gt;: In the third and last step (C in my former notation) on Netlify to create your website you have to specify the details (parameters) to let Netlify know which type of website it has to build. In the example in the screenshot I said that Netlify should watch my master branch, build a Hugo website from the public repository with the newest version of Hugo at the time of writing this tutorial (version 0.26). &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/netlify-deploy-settings.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Specify the deploy settings.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Deploy website&lt;/strong&gt;: After clicking &amp;ldquo;Deploy website&amp;rdquo; you can lean back and watch Netlify busy working on building the website. This may take for this initial step some time but later on Netlify will finish work almost immediately as it only builds the new/changed files incrementally. When the rolling down of the messages stops you should see as last line: &amp;ldquo;Site is live&amp;rdquo;! &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/netlify-site-is-live.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Watch Netlify working until it is finished.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Preview deploy&lt;/strong&gt;: Scroll back to the beginning of the log messages. You will see that Netlify has giving you a random URL but you can change this later on to your liking. Click &amp;ldquo;Preview deploy&amp;rdquo; to go to the URL of your new website. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/netlify-preview-deploy.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Watch Netlify working until it is finished.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Website is online!:&lt;/strong&gt; Congratulations! Your website is now online. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/website-is-online.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Your website is online.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;final-comments&#34;&gt;Final comments&lt;/h2&gt;
+
+&lt;p&gt;This was a very quick tour where I have covered just the things I believed to be essential. If you are (like me) new to static website generators then the different steps together seem overwhelmingly complex. But with patience and some trial and errors you should succeed &amp;mdash; as I have. There are many other (better) tutorials and How-Tos around. You should definitely read carefully the book &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;blogdown: Creating websites with R Markdown&lt;/a&gt; and the reports of different experiences from the new &lt;a href=&#34;https://support.rbind.io/&#34; target=&#34;_blank&#34;&gt;rbind community&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blogdown tutorial (Part 3)</title>
+      <link>/post/blogdown-tutorial-part-3/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/blogdown-tutorial-part-3/</guid>
+      <description>&lt;p&gt;In this third part of the blogdown tutorial I will explain the necessary steps to get a live preview of your website. The main advantage to bring up your website locally is that you can view and test your website during working on your post without the need of an internet connection. You have not even  to reload the page as this is done automatically through a technology called &lt;a href=&#34;http://livereload.com/&#34; target=&#34;_blank&#34;&gt;LiveReload&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Warning after installation&lt;/strong&gt;: After we have finishing the installation we have gotten a red warning. It is a reminder not to transfer files which are not used displaying the website. At that time we didn&amp;rsquo;t bother about it. I have replicated the &lt;a href=&#34;/2017/09/04/blogdown-tutorial-part-1/#figure8&#34;&gt;picture of step number 8&lt;/a&gt; of the first part of this tutorial as a starting point for this third part of the tutorial. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/four-pane-view-after-installation.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;RStudio&amp;rsquo;s four pane view immediately after installation.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Ignore some file types&lt;/strong&gt;: After the installation &lt;code&gt;config.toml&lt;/code&gt; is opened automatically by RStudio. We add the recommended line &lt;code&gt;ignoreFiles = [&amp;quot;\\.Rmd$&amp;quot;, &amp;quot;\\.Rmarkdown$&amp;quot;, &amp;quot;_files$&amp;quot;, &amp;quot;_cache$&amp;quot;]&lt;/code&gt; in an upper place. On this occasion we also change the base URL (first line) to &lt;code&gt;/&lt;/code&gt;. After saving theses changes the version control (Git tab right upper pane) will display &lt;code&gt;config.toml&lt;/code&gt; with a blue &lt;code&gt;M&lt;/code&gt; (modified). &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/changes-in-config-toml.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Some changes in the config.toml&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Demonize server&lt;/strong&gt;: Before we start posting our website locally we should arrange that the local server runs as a background process (= aka to demonize the server). You can run the command &lt;code&gt;
+options(servr.daemon = TRUE)&lt;/code&gt; on the console (lower left pane), but &amp;ndash; as I am using this process all the time &amp;ndash; I prefer to write this line into my start up file. On this occasion I also add some other convenient commands to facilitate the generation of new posts. See the &lt;a href=&#34;https://bookdown.org/yihui/blogdown/global-options.html&#34; target=&#34;_blank&#34;&gt;blogdown page on global options&lt;/a&gt; for more details.  &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/set-options-in-rprofile.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Set Options in Rprofile.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Start local server&lt;/strong&gt;: We can now start the local servers: Choose from the &amp;ldquo;Addins&amp;rdquo; menu the &amp;ldquo;Serve Site&amp;rdquo; option. This will run the command &lt;code&gt;blogdown::serve_site()&lt;/code&gt; to build the site to get a live preview of the website locally.  &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/serve-site.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Choose &amp;lsquo;Serve Site&amp;rsquo; to get a live preview of the website locally.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Building the website&lt;/strong&gt;: Blogdown is building the site and will give you the local server address. It is normally &lt;code&gt;http://127.0.0.1:4321/&lt;/code&gt;. While the server is demonized you can still use the console, otherwise a small red stop sign will appear in the right corner of left lower pane and no command can be run in the console window. The best way to stop the server is to restart R (shortcut = &lt;code&gt;CMD + SHIFT + F10&lt;/code&gt;). &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/getting-local-server-address.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Set Options in Rprofile.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;First preview locally&lt;/strong&gt;: We can now inspect our website in a browser with the web address &lt;code&gt;http://127.0.0.1:4321/&lt;/code&gt;. Whenever we type something in one of our files and save the changes blogdown will rebuild the site and we can immediately see the changes in the browser via the local address. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/first-view-website-locally.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;First view of live preview locally.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Adapt personal information&lt;/strong&gt;: Until now all the information this tutorial has provided was the same whatever theme you are going to choose from the &lt;a href=&#34;https://themes.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo theme wsebsite&lt;/a&gt;. But from here now comes your specified theme into play we will look into some necessary adaptions before we going to publish our new website. You can now adapt the personal information in your config.toml file. Read the documentation which comes included as posts of the sample site &lt;code&gt;http://127.0.0.1/#post&lt;/code&gt; or go directly to the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;demo site&lt;/a&gt;. I have for instance changed the title of the website from &amp;lsquo;Academic&amp;rsquo; to &amp;lsquo;Blogdown Test&amp;rsquo;. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/first-change.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Changed title from &amp;lsquo;Academic&amp;rsquo; to &amp;lsquo;Blogdown Test&amp;rsquo;&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Create first post&lt;/strong&gt;: To write posts choose &amp;lsquo;New Post&amp;rsquo; from the Addins menu. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/new-post.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Create a new post.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Add metadata&lt;/strong&gt;: This will open up a window to fill in metadata. This form is already populated with the variable from our .Rprofile, so that you only have to add the post title. File name and slug will be generated automatically from the post title. Categories and tags can be filled now –- or later written in the file header or via the Addins menu &amp;lsquo;Update Metadata&amp;rsquo; added. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/new-post-form.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Fill in the prepopulated post form.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Start editing text&lt;/strong&gt;: The &amp;lsquo;New Post&amp;rsquo; form creates a new file for the post. The first few lines are filled with metadata of the post. You start with the post text under the second three dashes of the post header. To format your text nicely learn the Markdown  &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/first-text-entry.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;First post entry.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Inspect post locally&lt;/strong&gt;: After saving your text, you can finally inspect your first post locally! Posts in the hugo-academic theme can be found in post section of the website. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/first-post.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Your first post!&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;It may be the case that the generation of you first post produces a warning. After Hugo version 0.24 a prototype for new generated files is necessary. In that case create a file with the command &lt;code&gt;file.edit(&amp;quot;archetype/default.md&amp;quot;)&lt;/code&gt; and add the example text written in the warning message.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/warning-archetypes-default.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;A warning informs you to create a file with a specified text.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blogdown tutorial (Part 2)</title>
+      <link>/post/blogdown-tutorial-part-2/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/blogdown-tutorial-part-2/</guid>
+      <description>
+
+&lt;h4 id=&#34;creating-a-github-repository&#34;&gt;Creating a Github repository&lt;/h4&gt;
+
+&lt;p&gt;In &lt;a href=&#34;/post/blogdown-tutorial-part-1/&#34; target=&#34;_blank&#34;&gt;part 1 of this tutorial&lt;/a&gt; we have installed the hugo-academic theme on top of R, RStudio and blogdown. We will continue the installation process with creating a remote GitHub repository.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;In case you do not have a GitHub account, sign up for it. When you have finished the registration process click the button &amp;ldquo;Start a project&amp;rdquo;. If you already have an account click at &amp;ldquo;New repository&amp;rdquo;. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/new-repo.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Creating a new GitHub repository.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Both actions (&amp;ldquo;Start a project&amp;rdquo; and &amp;ldquo;New repository&amp;rdquo;) opens up a window where you can name your new repository. Leave all the other options empty resp. as they are and click the green button &amp;ldquo;Create repository&amp;rdquo;. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/create-github-repo.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Creating a new GitHub repository.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The last click brings you to a &amp;ldquo;Quick setup&amp;rdquo; page with several options. As there already exist a repository with our hugo-academic files, we copy the two lines in the third option: &amp;ldquo;push an existing repository from the command line&amp;rdquo;. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/quick-repo-setup.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Quick setup: push an exiting repository from the command line.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;But before we can paste these two lines into the terminal in order to link our local with the remote GitHub repository we need to &lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34;&gt;download Git&lt;/a&gt; and install it. The best description I know of the installation procedure and its integration with RStudio is by Hadley Wickham in chapter 13 of his book about R Packages. There is a online version available. Read the two sections &lt;a href=&#34;http://r-pkgs.had.co.nz/git.html#git-init&#34; target=&#34;_blank&#34;&gt;Initial set up and Create a local Git repository&lt;/a&gt;. For the mentioned shell commands you can use the Terminal tab of RStudio in the left lower pane. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/terminal-without-commands.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Use for the shell command the new terminal tab of RStudio.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After the shell command &lt;code&gt;git init&lt;/code&gt; the local repository is under version control. After you have restarted RStudio you will now see new tabs in the RStudio panes. Click in the Git tab in the upper right pane. This reveals a bunch of folder and some files. The yellow boxes with the question marks under the status column indicate that these file are not yet under version control. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/git-folder-and-files.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Folders and files which are not under version control.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;To bring these folders and files under version control you have to select all of them and click in one of the check boxes under the column &amp;ldquo;Staged&amp;rdquo;. You will see now a lot more files as all the files under the still untracked folders are explicitly shown. The &lt;code&gt;A&lt;/code&gt; indicates that these files are new (are just added) to the repository. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/git-added-files.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;New (Added) files  to be set under version control.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A click in the Commit tab opens up a new window where you must write a message. This is necessary so that all collaborators (including the future-you!) remembers what was the change about. This first  (e.g.initial) commit will bring all the files under version control. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/initial-commit.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;The initial commit brings many files under version control.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After sending your message by clicking the &lt;code&gt;Commit&lt;/code&gt; button you will see a list of all the committed files which are now in the local repository under version control. You can close this window and we can finally add our two lines copied from the GitHub page. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/git-committed-files.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Files are successfully committed.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Insert the two copied lines from the GitHub repository into the Terminal tab (red arrow). The first line will establish the connection between the local and the remote repository. The second line will push all the committed local files to the GitHub repository.Depending of you internet connection and how many data has to be transferred this can take a couple of seconds (blue arrow). &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/connect-git-with-github.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Connecting local Git with remote GitHub repository and pushing the initial commit.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blogdown tutorial (Part 1)</title>
+      <link>/post/blogdown-tutorial-part-1/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/blogdown-tutorial-part-1/</guid>
+      <description>
+
+&lt;h4 id=&#34;from-r-and-rstudio-with-blogdown-to-git-and-github&#34;&gt;From R and RStudio with blogdown to Git and Github&lt;/h4&gt;
+
+&lt;p&gt;In this tutorial I will show how to install the R package &amp;ldquo;blogdown&amp;rdquo; with the help of the new version of RStudio and how to link your local blogdown-directory to a remote repository on GitHub. But before we actually start with the installation procedure let us define the different ingredients (tools) we are going to use:&lt;/p&gt;
+
+&lt;h2 id=&#34;tools-we-are-going-to-use&#34;&gt;Tools we are going to use&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;Blogdown&lt;/a&gt; is an R package for creating static websites with R Markdown.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.r-project.org/about.html&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; is an integrated suite of open source software facilities for statistical computing and includes tools for data manipulation, calculation and graphical display.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rstudio.com/&#34; target=&#34;_blank&#34;&gt;RStudio&lt;/a&gt; is an integrated development environment (IDE) which sits on top of R and facilitates the use of R tremendously.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34;&gt;R Markdown&lt;/a&gt; is a file format for making dynamic documents with R. It is based on Markdown (a lightweight markup language with plain text formatting syntax), but it also can contain chunks of embedded R code.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; is a popular open-source static website generator.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://themes.gohugo.io/academic/&#34; target=&#34;_blank&#34;&gt;hugo-academic&lt;/a&gt; is a theme designed for Hugo to create an academic or personal website. Besides special academic features like sections for publications, projects, teaching it also includes a blog section and supports multilingual usage.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; is an Internet hosting service for distributed version control repositories. Is is mainly used for source code management, but it works also with plain text markup languages. GitHub offers all the functionality of Git as well adding its own features.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt; is a distributed version control system  for tracking changes in computer files and coordinating work on those files among multiple people.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;All these tools are open source and free available.&lt;/p&gt;
+
+&lt;h2 id=&#34;preliminary-preparations-installing-r-and-rstudio&#34;&gt;Preliminary preparations: Installing R and RStudio&lt;/h2&gt;
+
+&lt;p&gt;There are many tutorials to install R and RStudio. See for instance the video &lt;a href=&#34;https://www.youtube.com/watch?v=cX532N_XLIs&#34; target=&#34;_blank&#34;&gt;Installing R and RStudio&lt;/a&gt;. But at the moment the new version of RStudio which facilitates the installation procedure of blogdown is still not released as standard version. But you can use all these new features by &lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/preview/&#34; target=&#34;_blank&#34;&gt;downloading the preview release&lt;/a&gt;. As these features will be soon the standard version of RStudio I will explain the installation procedure using this upcoming version.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;create-a-blogdown-website&#34;&gt;Create a blogdown website&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;After installing RStudio version greater than v.1.1.28 open the project menu and choose &amp;ldquo;New Project&amp;rdquo;. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/create-new-project.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Create a new project&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A new window opens up: We are going to create a new local directory for our static blogdown website. Choose &amp;ldquo;New directory&amp;rdquo;. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/create-new-directory.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Create a new directory&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The selection in the following window is self-explaining: &amp;ldquo;Website using blogdown&amp;rdquo;. Here it is the last line in the window. But in the future there may added other project types, so that you have to scroll down to see the blogdown-choice.&lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/create-website-using-blogdown.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Create a website using blogdown.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Lastly we arrive at the final window we have to answer. Here you can choose the name and location of your local directory which will eventually collect all files of your static website. I recommend to leave all check boxes ticked, as this default value will give you the most support to generate the new website. The program for the static website generator Hugo will be installed automatically as well as sample blog posts will be added. Especially important is the possibility to look into the example site of the theme, because this will provide you with clues about the functionality of the theme. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/create-website-using-hugo-and-blogdown.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Create a website using Hugo and blogdown.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I have chosen the hugo-academic theme. You can pick your own preferred webdesign via the &lt;a href=&#34;https://themes.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo Themes&lt;/a&gt; page. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/hugo-themes.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;Huge variety of Hugo themes to choose from.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;In the &amp;ldquo;Hugo theme&amp;rdquo; field you have to insert the URL of the GitHub repository of the theme you would like to use. You will see the address when you click at the thumbnail of the theme and hover your cursor over the &amp;ldquo;Download&amp;rdquo;-button. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/academic-theme.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;hugo-academic is as special theme for personal websites in academia.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Clicking on the download button will bring up the developer&amp;rsquo;s repository. This is useful even for beginner as you can have a look of the ongoing discussion under the &amp;ldquo;issue&amp;rdquo; tab or to ask your own questions. Experienced users can fork the repository in order to adapt the functionality of the theme and/or to suggest code changes to the developer via the push mechanism. &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/github-gcushen-hugo-academic.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;GitHub code repository of the hugo-academia theme.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a name=&#34;figure8&#34;&gt;&lt;/a&gt;When you finally click the &amp;ldquo;Create Project&amp;rdquo; button you have to wait few seconds until the selected theme is downloaded and Hugo installed. After the installation is finished RStudio opens up a four pane view. We will go more into the details of these different windows in the third part of this tutorial.  &lt;figure&gt;
+
+&lt;img src=&#34;/img/blogdown-tutorial/four-pane-view-after-installation.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+  &lt;h4&gt;RStudio&amp;rsquo;s four pane view immediately after installation.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;We have successfully installed the hugo-academic theme in a version controlled local directory. Essentially we could now start to personalize the website and/or write articles resp. posts. But we will continue the installation process with creating a remote GitHub repository which has to be linked to the just created local repository. The remote repository not only operates as backup and as distributed version control (allowing collaboration) but also enables &amp;ndash; beside a manual transfer via ftp &amp;ndash; additional ways of publishing your website. We will cover these possibilities in the following parts of this tutorial.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;To use features supporting blogdown websites the RStudio version has to be higher than v1.1.28: As today (2017-09-04) the actual preview version is v1.1.353. 
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0500</pubDate>
+      
+      <guid>/project/deep-learning/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website designer for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0500</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Key features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Easily manage various content including homepage, blog posts, publications, talks, and projects&lt;/li&gt;
+&lt;li&gt;Extensible via &lt;strong&gt;color themes&lt;/strong&gt; and &lt;strong&gt;widgets/plugins&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
+&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
+&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
+
+&lt;p&gt;Academic is available in different color themes and font themes.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Default&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Ocean&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Dark&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Default&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Coffee theme with Playfair font&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;1950s&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+
+&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;one-click install using your web browser (recommended)&lt;/li&gt;
+&lt;li&gt;install on your computer using Git with the Command Prompt/Terminal app&lt;/li&gt;
+&lt;li&gt;install on your computer by downloading the ZIP files&lt;/li&gt;
+&lt;li&gt;install on your computer with RStudio&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;quick-install-using-your-web-browser&#34;&gt;Quick install using your web browser&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart&#34; target=&#34;_blank&#34;&gt;Install Academic with Netlify&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Netlify will provide you with a customizable URL to access your new site&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;On GitHub, go to your newly created &lt;code&gt;academic-kickstart&lt;/code&gt; repository and edit &lt;code&gt;config.toml&lt;/code&gt; to personalize your site. Shortly after saving the file, your site will automatically update&lt;/li&gt;
+&lt;li&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;install-with-git&#34;&gt;Install with Git&lt;/h3&gt;
+
+&lt;p&gt;Prerequisites:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34;&gt;Download and install Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/#quick-install&#34; target=&#34;_blank&#34;&gt;Download and install Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository and clone your fork with Git:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace &lt;code&gt;sourcethemes&lt;/code&gt; with your GitHub username.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Initialize the theme:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd My_Website
+git submodule update --init --recursive
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;install-with-zip&#34;&gt;Install with ZIP&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract &lt;em&gt;Academic Kickstart&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract the &lt;em&gt;Academic theme&lt;/em&gt; to the &lt;code&gt;themes/academic/&lt;/code&gt; folder from the above step&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;install-with-rstudio&#34;&gt;Install with RStudio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;View the guide to installing Academic with RStudio&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;quick-start&#34;&gt;Quick start&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;If you installed on your computer, view your new website by running the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo server
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now visit &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt; or Netlify (refer to the first installation method). Alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as a university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
+
+&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory) and record your current version number.&lt;/p&gt;
+
+&lt;p&gt;By default, Academic is installed as a Git submodule which can be updated by running the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule update --remote --merge
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Check out the update guide&lt;/a&gt; for full instructions and alternative methods.&lt;/p&gt;
+
+&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
+
+&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
+
+&lt;p&gt;For support, head over to the &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
